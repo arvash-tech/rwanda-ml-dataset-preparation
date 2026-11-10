@@ -1,0 +1,13 @@
+name: ml-project
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - notebook
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - numpy
+  - seaborn
+prefix: /home/abayo/anaconda3/envs/ml-project
